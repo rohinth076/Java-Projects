@@ -15,6 +15,14 @@
 
 <hr />
 
+## 🌀 What is this repository for ?
+
+- This repository contains a list of projects bulid using Java . 
+
+- Anyone can contribute their project to this repository .
+
+<br />
+
 ## ☣️ How to contribute for this repo ?
 
 - Fork this repository .
@@ -40,13 +48,18 @@
 
 - Every Project must contains separate readme file and that readme will explain the project .
 
-- push the project like ⏬
 
+- Create one folder(for one project) and put you project and readme in it.
+
+- push the project like this ⏬
+
+<br />
+
+**Example :**
 <br />
 
 ![Project sample](Images/01.jpg)
 
 <br />
 
-- Create one folder(for one project) and put you project and readme in it.
 
