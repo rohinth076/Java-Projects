@@ -97,8 +97,8 @@ class Game extends JFrame implements ActionListener {
 
           rs.addActionListener(this);
           ng.addActionListener(this);
-
-
+         
+     jb[0][0].setIcon(icon);
      }
 
     @Override
